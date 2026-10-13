@@ -2,7 +2,8 @@
 
 # Jinyu Cong · 丛津宇
 
-**Master's student in Machine Learning for Data Science · Université Paris Cité**
+**Master's student in Machine Learning for Data Science @ Université Paris Cité**
+
 Multimodal LLMs · Preference alignment (RLHF / DPO) · Generative recommendation
 
 <img src="https://img.shields.io/badge/Paris-France-1f2937?style=flat-square" alt="Paris" />
@@ -69,9 +70,27 @@ I come from computational linguistics (NLP master's at INALCO) and now work on m
 
 ## Tech stack
 
-**ML**: PyTorch · Hugging Face Transformers · scikit-learn · Gymnasium
-**Languages**: Python · C# · Java · JavaScript
-**Infra**: Docker · Kubernetes · Istio · gRPC · FastAPI · PostgreSQL
+<p align="center">
+  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py" width="48" alt="Python" /></a>
+  <a href="https://pytorch.org"><img src="https://skillicons.dev/icons?i=pytorch" width="48" alt="PyTorch" /></a>
+  <a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" width="48" alt="C#" /></a>
+  <a href="https://isocpp.org"><img src="https://skillicons.dev/icons?i=cpp" width="48" alt="C++" /></a>
+  <a href="https://fastapi.tiangolo.com"><img src="https://skillicons.dev/icons?i=fastapi" width="48" alt="FastAPI" /></a>
+  <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" /></a>
+  <a href="https://kubernetes.io"><img src="https://skillicons.dev/icons?i=kubernetes" width="48" alt="Kubernetes" /></a>
+  <a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL" /></a>
+  <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" /></a>
+  <a href="https://www.kernel.org"><img src="https://skillicons.dev/icons?i=linux" width="48" alt="Linux" /></a>
+</p>
+
+<p align="center">
+  <a href="https://huggingface.co"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
+  <a href="https://scikit-learn.org"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" /></a>
+  <a href="https://gymnasium.farama.org"><img src="https://img.shields.io/badge/Gymnasium-0081A5?style=for-the-badge&logo=openaigym&logoColor=white" alt="Gymnasium" /></a>
+  <a href="https://istio.io"><img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white" alt="Istio" /></a>
+  <a href="https://grpc.io"><img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC" /></a>
+</p>
+
 **Languages spoken**: 中文 · English · Français
 
 ---
@@ -81,7 +100,3 @@ I come from computational linguistics (NLP master's at INALCO) and now work on m
 I am happy to talk about multimodal alignment, preference optimization, or research collaboration.
 
 [![GitHub](https://img.shields.io/badge/GitHub-JinyuCong-181717?style=flat-square&logo=github)](https://github.com/JinyuCong)
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinyuCong&layout=compact&hide_border=true&langs_count=6" alt="Top languages" />
-</div>
