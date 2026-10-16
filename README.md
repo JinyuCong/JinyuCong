@@ -6,12 +6,6 @@
 
 Multimodal LLMs · Preference alignment (RLHF / DPO) · Generative recommendation
 
-<img src="https://img.shields.io/badge/Paris-France-1f2937?style=flat-square" alt="Paris" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-
 </div>
 
 ---
@@ -98,5 +92,7 @@ I come from computational linguistics (NLP master's at INALCO) and now work on m
 ## Get in touch
 
 I am happy to talk about multimodal alignment, preference optimization, or research collaboration.
+
+E-mail: congtaotao2001@gmail.com
 
 [![GitHub](https://img.shields.io/badge/GitHub-JinyuCong-181717?style=flat-square&logo=github)](https://github.com/JinyuCong)
