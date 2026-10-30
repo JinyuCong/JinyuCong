@@ -51,7 +51,6 @@ I come from computational linguistics (NLP master's at INALCO) and now work on m
 | Project | What it is |
 |---|---|
 | [**Financial-Scraper-Agent**](https://github.com/JinyuCong/Financial-Scraper-Agent) | LLM agent that calls analysis tools (ARIMA, RSI, MACD, Bollinger) through gRPC microservices, deployed on Kubernetes with Istio and mTLS. |
-| [**kubernetes-minikube**](https://github.com/JinyuCong/kubernetes-minikube) | Docker to Kubernetes walkthrough: deployment, load balancing and ingress on Minikube. |
 | [**hand_written_recognition**](https://github.com/JinyuCong/hand_written_recognition) | Handwritten character OCR with LeNet, served by FastAPI behind a web canvas front end. |
 
 ### Just for the love of it
